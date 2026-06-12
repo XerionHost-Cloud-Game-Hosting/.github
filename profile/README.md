@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/293094806?s=400&u=331c41a261508bda4ce7daaab81ca5bb5e805873&v=4" width="180" alt="XerionHost Logo">
 
-# © XerionHost
+# © XerionHost · Open Source
 
 ### Cloud & Game Hosting Infrastructure
 
