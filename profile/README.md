@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/293094806?s=400&u=331c41a261508bda4ce7daaab81ca5bb5e805873&v=4" width="200" alt="PixelPlayer Studios Logo">
+<img src="https://avatars.githubusercontent.com/u/293094806?s=400&u=331c41a261508bda4ce7daaab81ca5bb5e805873&v=4" width="180" alt="XerionHost Logo">
 
 # © XerionHost
 
-### Cloud & Game Hosting
+### Cloud & Game Hosting Infrastructure
 
-Game hosting, VPS, Bare Metal Servers, and Bot Hosting, Affordable, reliable, and high-performance solutions, XerionHost™ a XerionGroup LLC business
+High-performance Game Hosting, VPS, Bare Metal Servers & Bot Hosting.  
+Affordable. Reliable. Scalable.
 
 <br>
 
@@ -21,9 +22,46 @@ Game hosting, VPS, Bare Metal Servers, and Bot Hosting, Affordable, reliable, an
 
 ---
 
-## Overview
+## 🚀 About XerionHost
 
-Game hosting, VPS, Bare Metal Servers, and Bot Hosting, Affordable, reliable, and high-performance solutions, XerionHost™ a XerionGroup LLC business
+**XerionHost™** is a modern infrastructure provider offering powerful and scalable hosting solutions for developers, communities, and businesses.
+
+We specialize in:
+
+- 🎮 Game Hosting (Minecraft, and more)
+- 🖥️ VPS Solutions
+- ⚙️ Bare Metal Servers
+- 🤖 Bot Hosting & Automation Services
+
+Built for **performance, stability, and scalability**.
+
+---
+
+## ⚡ Features
+
+- High-performance infrastructure
+- Low latency global routing
+- Docker & Kubernetes ready environments
+- Scalable server architecture
+- Developer-friendly ecosystem
+- 24/7 uptime-focused design
+
+---
+
+## 🏗️ Technology Stack
+
+Powered by modern, battle-tested technologies:
+
+- Kotlin / Java / Go
+- Docker containerization
+- Kubernetes orchestration
+- PaperMC optimized game servers
+
+---
+
+## 🌐 Vision
+
+Our goal is to provide **enterprise-grade hosting at accessible prices**, enabling developers and communities to scale without limits.
 
 ---
 
@@ -31,6 +69,6 @@ Game hosting, VPS, Bare Metal Servers, and Bot Hosting, Affordable, reliable, an
 
 ### © XerionHost
 
-*Game hosting, VPS, Bare Metal Servers, and Bot Hosting, Affordable, reliable, and high-performance solutions.*
+*Powering next-generation game & cloud infrastructure.*
 
 </div>
